@@ -13,7 +13,7 @@ Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku 
 ### Thanks To:
 
 - 1️⃣ [Distube][distube]
-- 2️⃣ [AlexzanderFlores][wokcommands]
+- 2️⃣ [AlexzanderFlores - WokCommands][wokcommands]
 
 ### Connect with me:
 
