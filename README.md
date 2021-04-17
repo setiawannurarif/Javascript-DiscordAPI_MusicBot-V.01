@@ -1,16 +1,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/setiawannurarif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsetiawannurarif&screen_name=setiawannurarif)
 [![Website](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/2RHN4X4)](https://discord.com/invite/2RHN4X4)
 
-### Hallo, aku [Arif Setiawan][aboutme] - aka [sNTINELs][discord] 👋
+### Hallo, aku [Nur Arif Setiawan][aboutme] - aka [sNTINELs][discord] 👋
 
 Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku buatin BOT versi pertama untuk kalian 😄
 
 ### How to use:
 
 - Ubah file .env:
-- -TOKEN : [TOKEN BOT][discordapi] didapat dari membuat aplikasi baru
-- -MONGO_URI : [MONGO_URI][mongouri] secara default fitur ini nonaktif, akan tetapi tidak bisa ganti prefix bot
-- -PREFIX : Bisa diisi terserah kalian
+- - TOKEN : [TOKEN BOT][discordapi] didapat dari membuat aplikasi baru
+- - MONGO_URI : [MONGO_URI][mongouri] secara default fitur ini nonaktif, akan tetapi tidak bisa ganti prefix bot
+- - PREFIX : Bisa diisi terserah kalian
 - Code siap dipakai
 
 ### Thanks To:
