@@ -10,6 +10,11 @@ Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku 
 - -PREFIX : Bisa diisi terserah kalian
 - Code siap dipakai
 
+### Thanks To:
+
+- 1️⃣ [Distube][distube]
+- 2️⃣ [AlexzanderFlores][wokcommands]
+
 ### Connect with me:
 
 [<img align="left" alt="setiawannurarif | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
@@ -17,11 +22,6 @@ Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku 
 [<img align="left" alt="setiawannurarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="setiawannurarif | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="setiawannurarif | Email" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />][email]
-
-### Thanks To:
-
-- 1️⃣ [Distube][distube]
-- 2️⃣ [AlexzanderFlores][wokcommands]
 
 <br />
 
