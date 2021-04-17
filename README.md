@@ -1,24 +1,27 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/setiawannurarif?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsetiawannurarif&screen_name=setiawannurarif)
 [![Website](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https%3A%2F%2Fdiscord.gg/2RHN4X4)](https://discord.com/invite/2RHN4X4)
 
-### Hallo, aku [Nur Arif Setiawan][aboutme] - aka [sNTINELs][discord] 👋
+## Hallo, aku [Nur Arif Setiawan][aboutme] - _aka_ [sNTINELs][discord] 👋
 
-Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku buatin BOT versi pertama untuk kalian 😄
+Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku buatin _BOT_ versi pertama untuk kalian 😄
 
 ### How to use:
 
-- Ubah file .env:
-- - TOKEN : [TOKEN BOT][discordapi] didapat dari membuat aplikasi baru
-- - MONGO_URI : [MONGO_URI][mongouri] secara default fitur ini nonaktif, akan tetapi tidak bisa ganti prefix bot
-- - PREFIX : Bisa diisi terserah kalian
-- Code siap dipakai
+1. _Install dependancies_ pada package.json pada _directory_ file ini disimpan.
+2. Ubah file .env:
 
-### Thanks To:
+- TOKEN : [TOKEN BOT][discordapi] didapat dari membuat aplikasi baru.
+- MONGO*URI : [MONGO_URI][mongouri] secara default fitur ini \_nonaktif*, akan tetapi tidak bisa ganti _prefix bot_.
+- PREFIX : Bisa diisi terserah kalian. contoh: '?', '!', dll
+
+3. _Code_ siap dipakai.
+
+### _Thanks To_:
 
 - 1️⃣ [Distube][distube]
 - 2️⃣ [AlexzanderFlores - WokCommands][wokcommands]
 
-### Connect with me:
+### _Connect with me_:
 
 [<img align="left" alt="setiawannurarif | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="setiawannurarif | Email" width="22px" src="https://simpleicons.org/icons/microsoftoutlook.svg" />][email]
