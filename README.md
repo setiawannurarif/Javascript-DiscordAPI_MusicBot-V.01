@@ -11,7 +11,7 @@ Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku 
 2. Ubah file .env:
 
 - TOKEN : [TOKEN BOT][discordapi] didapat dari membuat aplikasi baru.
-- MONGO_URI : [MONGO_URI][mongouri] secara default fitur ini _nonaktif_, akan tetapi tidak bisa ganti _prefix bot_.
+- MONGO_URI : [MONGO_URI][mongouri] secara default fitur ini nonaktif, akan tetapi tidak bisa ganti prefix bot.
 - PREFIX : Bisa diisi terserah kalian. contoh: '?', '!', dll
 
 3. _Code_ siap dipakai.
