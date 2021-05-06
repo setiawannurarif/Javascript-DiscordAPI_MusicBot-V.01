@@ -16,6 +16,9 @@ Gaes buat yang pengen punya BOT Music sendiri di server discord kalian, ini aku 
 
 3. _Code_ siap dipakai.
 
+### Invite BOT Music:
+[Bigdaddy Music](https://discord.com/oauth2/authorize?client_id=812735420340895764&permissions=70282305&scope=bot)
+
 ### _Thanks To_:
 
 1️⃣ [Distube][distube]
