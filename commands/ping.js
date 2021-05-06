@@ -2,6 +2,7 @@ const { MessageEmbed } = require("discord.js");
 
 module.exports = {
   name: "Ping", // Optional
+  //   commands: ["runbotinvite"], // Optional
   aliases: ["ping", ""], // Optional
   category: "Features",
   description: "Command to test ping a bot!",

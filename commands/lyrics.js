@@ -3,6 +3,7 @@ const lyricsFinder = require("lyrics-finder");
 
 module.exports = {
   name: "Lyrics", // Optional
+  //   commands: ["runbotinvite"], // Optional
   aliases: ["lyrics", "ly"], // Optional
   category: "Command Music",
   description: "Command to search lyrics a song!",

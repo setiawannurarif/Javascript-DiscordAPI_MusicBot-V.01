@@ -2,6 +2,7 @@ const embedBuilder = require("../function");
 
 module.exports = {
   name: "Play Custom Playlist", // Optional
+  //   commands: ["runbotinvite"], // Optional
   aliases: ["playcustom", "pc"], // Optional
   category: "Command Music",
   description: "Command to play custom playlist!",

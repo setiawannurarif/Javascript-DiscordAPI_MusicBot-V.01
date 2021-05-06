@@ -2,6 +2,7 @@ const embedBuilder = require("../function");
 
 module.exports = {
   name: "Invite BOT", // Optional
+  //   commands: ["runbotinvite"], // Optional
   aliases: ["invite", ""], // Optional
   category: " Configuration",
   description: "Command to invite the bot!",
